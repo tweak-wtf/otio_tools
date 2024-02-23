@@ -1,0 +1,33 @@
+---
+
+- file: "./tests/otio_timelines/10-200_native.otio"
+  video_tracks:
+    - name: "Video 1"
+      enabled: True
+      clips:
+        - name: 0400_trans_v022.[0001-0152].exr
+          src_in: 34.0
+          duration: 81.0
+          fps: 25.0
+
+- file: "./tests/otio_timelines/10-50-200_native.otio"
+  video_tracks:
+    - name: "Video 1"
+      enabled: True
+      clips:
+        - name: 0400_trans_v022.[0001-0152].exr
+          src_in: 34.0
+          duration: 80.0
+          fps: 25.0
+
+- file: "./tests/otio_timelines/50-10-100_nonZeroStartTimecode_native.otio"
+  video_tracks:
+    - name: "Video 1"
+      enabled: True
+      clips:
+        - name: xs02_082_0630_reviewMain_v003_shotgridreview.mov
+          src_in: 49.0
+          duration: 29.0
+          fps: 24.0
+
+  

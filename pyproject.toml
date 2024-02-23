@@ -1,0 +1,7 @@
+[project]
+name = "otio_tools"
+version = "0.0.1-dev.0"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

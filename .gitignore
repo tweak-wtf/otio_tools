@@ -1,0 +1,4 @@
+.vscode
+__pycache__
+.pytest_cache
+otio_tools.egg-info
