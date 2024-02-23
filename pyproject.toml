@@ -2,7 +2,7 @@
 name = "otio-tools"
 version = "0.0.1-dev.0"
 description = ""
-authors = ["Jakub Jezek <jakubjezek001@gmail.com>"]
+authors = ["doerp <me@doerp.cool>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
