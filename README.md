@@ -50,7 +50,7 @@ For `x` user keyframes you will have `x+2` keyframes available in OTIOs effect r
     "effect_name": ""
 },
 ```
-![images/simple_clip_retime.png](images\simple_clip_retime.png)
+![images/simple_clip_retime.png](images/simple_clip_retime.png)
 From that trying to lookup the clip's source media frame at retimed in and out positions represented as blue markers in the image above.
 
 This example's clip in could be expressed by inserting into the general formula with the following list.
