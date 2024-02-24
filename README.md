@@ -65,6 +65,7 @@ This example's clip in could be expressed by inserting into the general formula 
 - $InChanged$ as $I_0$
     - this is interpreted as the `clip.source_range.start_time` multiplied by the speed change at that position
     - the speed changes here would be `[0.1, 2.0]`
+    - > for the tangents this could be another lookup right?
 
 Resulting in $\Delta{IK} = \frac{K_1 - I_1}{K_0 - I_0}$.
 The variable we don't have is $I_1$ so solving for it should be:
